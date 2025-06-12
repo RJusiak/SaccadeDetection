@@ -21,3 +21,6 @@ Example: ETdata(2,6).X contains all x-coordinates for participant 2 recorded dur
 trial 6. Similarily, ETdata(2,6).Y contains corresponding y-coordinates.
 
 Results are stored in the folder 'DetectionResults' in the file 'DetectionResults.mat'. The results can be accessed from the variable ETparams.
+
+The "Graphs" folder contains examples of results. The original data of a Participant/Trial as well as the detected saccades & fixations
+are ploted onto the corresponding presented stimulus.
